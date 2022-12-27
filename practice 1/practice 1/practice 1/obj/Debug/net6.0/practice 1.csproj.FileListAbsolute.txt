@@ -1,0 +1,15 @@
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.csproj.AssemblyReference.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.AssemblyInfoInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.AssemblyInfo.cs
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.csproj.CoreCompileInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\bin\Debug\net6.0\practice 1.exe
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\bin\Debug\net6.0\practice 1.deps.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\bin\Debug\net6.0\practice 1.runtimeconfig.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\bin\Debug\net6.0\practice 1.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\bin\Debug\net6.0\practice 1.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\refint\practice 1.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\practice 1.genruntimeconfig.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\practice 1\obj\Debug\net6.0\ref\practice 1.dll

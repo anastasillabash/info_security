@@ -1,0 +1,12 @@
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\bin\Debug\net6.0\1.2.deps.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\bin\Debug\net6.0\1.2.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\bin\Debug\net6.0\1.2.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.csproj.AssemblyReference.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.AssemblyInfoInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.AssemblyInfo.cs
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.csproj.CoreCompileInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\refint\1.2.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\1.2.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 1\practice 1\1.2\obj\Debug\net6.0\ref\1.2.dll
