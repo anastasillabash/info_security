@@ -1,0 +1,15 @@
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\bin\Debug\net6.0\practice 3.exe
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\bin\Debug\net6.0\practice 3.deps.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\bin\Debug\net6.0\practice 3.runtimeconfig.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\bin\Debug\net6.0\practice 3.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\bin\Debug\net6.0\practice 3.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.csproj.AssemblyReference.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.AssemblyInfoInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.AssemblyInfo.cs
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.csproj.CoreCompileInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\refint\practice 3.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\practice 3.genruntimeconfig.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\practice 3\practice 3\obj\Debug\net6.0\ref\practice 3.dll
