@@ -1,0 +1,15 @@
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.csproj.AssemblyReference.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.AssemblyInfoInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.AssemblyInfo.cs
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.csproj.CoreCompileInputs.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\bin\Debug\net6.0\пшгпг.exe
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\bin\Debug\net6.0\пшгпг.deps.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\bin\Debug\net6.0\пшгпг.runtimeconfig.json
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\bin\Debug\net6.0\пшгпг.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\bin\Debug\net6.0\пшгпг.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\refint\пшгпг.dll
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.pdb
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\пшгпг.genruntimeconfig.cache
+C:\Users\ferhe\Desktop\універ\основи безпеки 2_1\info_security\пшгпг\пшгпг\obj\Debug\net6.0\ref\пшгпг.dll
